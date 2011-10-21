@@ -1,0 +1,12 @@
+This code is an automatic evaluation system for Java code, designed to give beginning programmers feedback without revealing the specific tests being used.
+
+
+EXAMPLE
+
+Compile everything, then run ClassroomGrader to see the output.
+
+The files Student.java and Classroom.java fulfill this specification:
+http://galileoweb.org/chunb/2011/10/18/lab-8-classroom/
+
+You can subclass Grader to create your own tests for any classes or methods you want.
+
